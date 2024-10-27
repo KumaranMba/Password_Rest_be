@@ -1,5 +1,5 @@
-import userModel from "../models/user.js";
-import auth from "../common/auth.js";
+import userModel from "user.js";
+import auth from "auth.js";
 import randomstring from "randomstring";
 import nodemailer from 'nodemailer'
 
